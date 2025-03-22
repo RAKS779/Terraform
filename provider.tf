@@ -1,4 +1,8 @@
-provider "aws" 
+
+
+
+
+provider "aws"
 {
-    
+    region=""
 }
